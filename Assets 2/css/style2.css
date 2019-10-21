@@ -1,0 +1,84 @@
+
+html,
+body {
+    background-image: url("../images/background3.gif");
+  
+}
+
+
+.card-title {
+  
+    line-height: 2;
+    color:#4aaaa5;
+    font-size: 30px;
+}
+
+h1 {margin:0 0 0 65px;
+    background-color:#4aaaa5;
+    color: white;
+    padding: 20px;
+}
+
+
+
+  .jumbotron-fluid {
+    background-image:url("../images/pikachu3.webp");
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+
+  }
+
+  .jumbotron-special {
+    background-image:url("../images/pikachu3.webp");
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+}
+
+    .jumbotron-special1  {
+        background-image:url("../images/pikachu3.webp");
+        background-size: cover;
+        color:whitesmoke;
+    text-align: center; }
+
+    .jumbotron-special2  {
+        background-image:url("../images/pikachu2.gif");
+        background-size: cover;
+        color:whitesmoke;
+    text-align: center; }
+
+    .jumbotron-special3 {
+        background-image:url("../images/pikachu2.gif");
+        background-size: cover;
+        color:whitesmoke;
+    text-align: center; }
+
+    .jumbotron-special4  {
+        background-image:url("../images/pikachu2.gif");
+        background-size: cover;
+        color:whitesmoke;
+    text-align: center; }
+
+
+.container-fluid { 
+background-color: silver;
+margin-top: 5%;}
+
+   
+
+   
+
+
+    
+   
+
+
+
+
+
+
+   
+      
+   
+
